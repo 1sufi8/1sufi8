@@ -42,6 +42,23 @@ $ whoami
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🏆 Platforms
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+
+---
+
+### 📚 Security Knowledge
+
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SANS](https://img.shields.io/badge/SANS_Top_25-FF0000?style=for-the-badge&logoColor=white)
+
+| Topic | Status |
+|-------|--------|
+| OWASP Top 10 | 📖 Currently Studying |
+| SANS/CWE Top 25 | 📖 Currently Studying |
+| Penetration Testing | 🔨 Actively Practicing |
+| CTF Challenges | 🎯 TryHackMe |
 
 ---
 
